@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.py\\Block.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.py\\Block.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\Block.c\u002B\u002B||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\Block.c\u002B\u002B||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\HEAD||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\.git\\HEAD||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\Debug\\pch.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\Debug\\pch.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\x64\\Debug\\vc143.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\x64\\Debug\\vc143.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\03\\4814dd7badbe869144a744f67dadcd388ad0f2||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\.git\\objects\\03\\4814dd7badbe869144a744f67dadcd388ad0f2||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.py\\key.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.py\\key.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.vs\\Bitcon.org\\v17\\.suo||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\.vs\\Bitcon.org\\v17\\.suo||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\x64\\Debug\\pch.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\x64\\Debug\\pch.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\key.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\key.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\.git\\hooks\\fsmonitor-watchman.sample||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.git\\hooks\\fsmonitor-watchman.sample||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\3e\\31780070103b03814f37a156fe642feaf691d9||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\.git\\objects\\3e\\31780070103b03814f37a156fe642feaf691d9||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\1e\\19b739f6e296dd1b38f71f20bf9152e6d9f6d1||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\.git\\objects\\1e\\19b739f6e296dd1b38f71f20bf9152e6d9f6d1||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\94\\91a2fda28342ab358eaf234e1afe0c07a53d62||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\.git\\objects\\94\\91a2fda28342ab358eaf234e1afe0c07a53d62||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\58\\0756fc0ecef3e313ccf65bc8dc83a2820dc9ae||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\.git\\objects\\58\\0756fc0ecef3e313ccf65bc8dc83a2820dc9ae||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.vs\\Bitcon.org\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\.vs\\Bitcon.org\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\logs\\HEAD||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\.git\\logs\\HEAD||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\Debug\\vc143.idb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\Debug\\vc143.idb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\.git\\hooks\\applypatch-msg.sample||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.git\\hooks\\applypatch-msg.sample||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\x64\\Debug\\vc143.idb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bitcon.org\\x64\\Debug\\vc143.idb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".suo",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.vs\\Bitcon.org\\v17\\.suo",
+              "RelativeDocumentMoniker": "Bitcon.org\\.vs\\Bitcon.org\\v17\\.suo",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.vs\\Bitcon.org\\v17\\.suo",
+              "RelativeToolTip": "Bitcon.org\\.vs\\Bitcon.org\\v17\\.suo",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE0SURBVDhPY2RAAt\u002B\u002BffsPZRICC7i4uBIZ/v//j2GAj48PlIcduLi4MBQUFICYYEOwGrBu7XqoCCoICg4E08iGMIFFSAR79uxhmDBhAoiZgNcAkI0wjA5AhmAAkBecnJz\u002Bf3j/kSAGqQOph7sAyDGAMjEAzAXYXAI2AKp5P4gNAywszAxrm3YwdPnOZKhPaQPzsQUuzAX7l1dvFgBihi1btoAVr6zbynB6w0WGd08/MCyv3sTAxMyE1QUsUFoApBgZgPihjV4Mq\u002Bu3QUUY8LoADDrOlYM1wjQb\u002B\u002BpCZSAAZxgQC7C5AOYFMKgw6mQwDdAHs5Gdjg/ADPgA1CgAYkS2\u002BoIFQADdEGxeAOcFpGgEGwIDoFi5e/ohg3uWHdBlelBRHABkCHJigvLfQ3EDEKMYDgEMDADAsbEC\u002B6Vc4wAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-23T17:26:59.681Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Block.py",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.py\\Block.py",
+              "RelativeDocumentMoniker": "Bitcon.py\\Block.py",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.py\\Block.py",
+              "RelativeToolTip": "Bitcon.py\\Block.py",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-12T00:32:09.754Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vc143.pdb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\x64\\Debug\\vc143.pdb",
+              "RelativeDocumentMoniker": "Bitcon.org\\x64\\Debug\\vc143.pdb",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\x64\\Debug\\vc143.pdb",
+              "RelativeToolTip": "Bitcon.org\\x64\\Debug\\vc143.pdb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
+              "WhenOpened": "2024-03-23T17:14:24.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fsmonitor-watchman.sample",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\.git\\hooks\\fsmonitor-watchman.sample",
+              "RelativeDocumentMoniker": ".git\\hooks\\fsmonitor-watchman.sample",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\.git\\hooks\\fsmonitor-watchman.sample",
+              "RelativeToolTip": ".git\\hooks\\fsmonitor-watchman.sample",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-12T00:30:53.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "31780070103b03814f37a156fe642feaf691d9",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\3e\\31780070103b03814f37a156fe642feaf691d9",
+              "RelativeDocumentMoniker": "Bitcon.org\\.git\\objects\\3e\\31780070103b03814f37a156fe642feaf691d9",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\3e\\31780070103b03814f37a156fe642feaf691d9 [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "Bitcon.org\\.git\\objects\\3e\\31780070103b03814f37a156fe642feaf691d9 [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-23T17:34:08.053Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "19b739f6e296dd1b38f71f20bf9152e6d9f6d1",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\1e\\19b739f6e296dd1b38f71f20bf9152e6d9f6d1",
+              "RelativeDocumentMoniker": "Bitcon.org\\.git\\objects\\1e\\19b739f6e296dd1b38f71f20bf9152e6d9f6d1",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\1e\\19b739f6e296dd1b38f71f20bf9152e6d9f6d1 [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "Bitcon.org\\.git\\objects\\1e\\19b739f6e296dd1b38f71f20bf9152e6d9f6d1 [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-28T16:33:51.456Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "91a2fda28342ab358eaf234e1afe0c07a53d62",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\94\\91a2fda28342ab358eaf234e1afe0c07a53d62",
+              "RelativeDocumentMoniker": "Bitcon.org\\.git\\objects\\94\\91a2fda28342ab358eaf234e1afe0c07a53d62",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\94\\91a2fda28342ab358eaf234e1afe0c07a53d62",
+              "RelativeToolTip": "Bitcon.org\\.git\\objects\\94\\91a2fda28342ab358eaf234e1afe0c07a53d62",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-25T14:29:26.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "0756fc0ecef3e313ccf65bc8dc83a2820dc9ae",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\58\\0756fc0ecef3e313ccf65bc8dc83a2820dc9ae",
+              "RelativeDocumentMoniker": "Bitcon.org\\.git\\objects\\58\\0756fc0ecef3e313ccf65bc8dc83a2820dc9ae",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\58\\0756fc0ecef3e313ccf65bc8dc83a2820dc9ae [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "Bitcon.org\\.git\\objects\\58\\0756fc0ecef3e313ccf65bc8dc83a2820dc9ae [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-26T18:16:47.248Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DocumentLayout.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.vs\\Bitcon.org\\v17\\DocumentLayout.json",
+              "RelativeDocumentMoniker": "Bitcon.org\\.vs\\Bitcon.org\\v17\\DocumentLayout.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.vs\\Bitcon.org\\v17\\DocumentLayout.json",
+              "RelativeToolTip": "Bitcon.org\\.vs\\Bitcon.org\\v17\\DocumentLayout.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T17:27:21.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HEAD",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\logs\\HEAD",
+              "RelativeDocumentMoniker": "Bitcon.org\\.git\\logs\\HEAD",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\logs\\HEAD",
+              "RelativeToolTip": "Bitcon.org\\.git\\logs\\HEAD",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-23T17:35:17.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "vc143.idb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\Debug\\vc143.idb",
+              "RelativeDocumentMoniker": "Bitcon.org\\Debug\\vc143.idb",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\Debug\\vc143.idb",
+              "RelativeToolTip": "Bitcon.org\\Debug\\vc143.idb",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADfSURBVDhPpZKxDYQwDEWdtCzDDEDJGIiSFe7mYIB0d9fQMgMNNSwBtLn7VoxCQDoQT7L43yYmcSCfZVm6aZpip22SJBzQyKGGd6AZa612Uoi11t08z0/nV5BD7Sf5A4xSKmxAVVXROI4PZ1eQQy1k12AYBm5ijHEZYo0caiG7BlmW8TNsAKTmo2RAPm3bUl3XODf7KIqoLEtK05T9Bpk2nn70fW\u002BLouCADuvr7fjmSsiazQzyPOcQ/nmwG\u002BJl/O1cCVnDtxBu6yxN0xwf4f36cAih97k9g9tHOPwTz0P0BR\u002B/E/q\u002BtxXHAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-26T18:41:32.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "applypatch-msg.sample",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\.git\\hooks\\applypatch-msg.sample",
+              "RelativeDocumentMoniker": ".git\\hooks\\applypatch-msg.sample",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\.git\\hooks\\applypatch-msg.sample",
+              "RelativeToolTip": ".git\\hooks\\applypatch-msg.sample",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-26T17:58:26.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "vc143.idb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\x64\\Debug\\vc143.idb",
+              "RelativeDocumentMoniker": "Bitcon.org\\x64\\Debug\\vc143.idb",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\x64\\Debug\\vc143.idb",
+              "RelativeToolTip": "Bitcon.org\\x64\\Debug\\vc143.idb",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADfSURBVDhPpZKxDYQwDEWdtCzDDEDJGIiSFe7mYIB0d9fQMgMNNSwBtLn7VoxCQDoQT7L43yYmcSCfZVm6aZpip22SJBzQyKGGd6AZa612Uoi11t08z0/nV5BD7Sf5A4xSKmxAVVXROI4PZ1eQQy1k12AYBm5ijHEZYo0caiG7BlmW8TNsAKTmo2RAPm3bUl3XODf7KIqoLEtK05T9Bpk2nn70fW\u002BLouCADuvr7fjmSsiazQzyPOcQ/nmwG\u002BJl/O1cCVnDtxBu6yxN0xwf4f36cAih97k9g9tHOPwTz0P0BR\u002B/E/q\u002BtxXHAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-23T17:14:11.879Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Block.c\u002B\u002B",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\Block.c\u002B\u002B",
+              "RelativeDocumentMoniker": "Bitcon.org\\Block.c\u002B\u002B",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\Block.c\u002B\u002B",
+              "RelativeToolTip": "Bitcon.org\\Block.c\u002B\u002B",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-12T00:31:34.487Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HEAD",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\HEAD",
+              "RelativeDocumentMoniker": "Bitcon.org\\.git\\HEAD",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\HEAD",
+              "RelativeToolTip": "Bitcon.org\\.git\\HEAD",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T09:45:39.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pch.obj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\Debug\\pch.obj",
+              "RelativeDocumentMoniker": "Bitcon.org\\Debug\\pch.obj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\Debug\\pch.obj",
+              "RelativeToolTip": "Bitcon.org\\Debug\\pch.obj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAENSURBVDhPjZPNDYMwDIVDxAlxYJR2hCKOSKzQEZiCaxmGIxIjtJu0B35upH4mrgCRlE8ydtLk2XFStafv\u002B8s4jm8YYjt9jDHGRguyuaoqAzslIqw3p2nKdkYkwAcLtNZdXddJ27b8g5BlmSrL8jPP8y2O45eIIYbXvs17ZC1MhAKU6Npss9vRAq1lL1WFPHIAUU9VCYl0GipQQzYBcdM0bAC\u002BKAqO94S2MRDpaJxgUsqjsz4xBsMw2GjbWDt1/IAo5uuEh63eh5mm6Y41Gh\u002BASqAIkyvaQ1nZo5H0CB9IxO/ABTLleW5HW\u002BQYvwpcSDNdTfQKRFEU0JGuFH7\u002BNtGHNHjVxPN/MuHolpRS6gsdswxexzQFmAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-13T19:07:24.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "key.py",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.py\\key.py",
+              "RelativeDocumentMoniker": "Bitcon.py\\key.py",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.py\\key.py",
+              "RelativeToolTip": "Bitcon.py\\key.py",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-14T16:04:36.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "4814dd7badbe869144a744f67dadcd388ad0f2",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\03\\4814dd7badbe869144a744f67dadcd388ad0f2",
+              "RelativeDocumentMoniker": "Bitcon.org\\.git\\objects\\03\\4814dd7badbe869144a744f67dadcd388ad0f2",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\.git\\objects\\03\\4814dd7badbe869144a744f67dadcd388ad0f2 [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "Bitcon.org\\.git\\objects\\03\\4814dd7badbe869144a744f67dadcd388ad0f2 [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-26T18:01:10.173Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pch.obj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\x64\\Debug\\pch.obj",
+              "RelativeDocumentMoniker": "Bitcon.org\\x64\\Debug\\pch.obj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\x64\\Debug\\pch.obj",
+              "RelativeToolTip": "Bitcon.org\\x64\\Debug\\pch.obj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAENSURBVDhPjZPNDYMwDIVDxAlxYJR2hCKOSKzQEZiCaxmGIxIjtJu0B35upH4mrgCRlE8ydtLk2XFStafv\u002B8s4jm8YYjt9jDHGRguyuaoqAzslIqw3p2nKdkYkwAcLtNZdXddJ27b8g5BlmSrL8jPP8y2O45eIIYbXvs17ZC1MhAKU6Npss9vRAq1lL1WFPHIAUU9VCYl0GipQQzYBcdM0bAC\u002BKAqO94S2MRDpaJxgUsqjsz4xBsMw2GjbWDt1/IAo5uuEh63eh5mm6Y41Gh\u002BASqAIkyvaQ1nZo5H0CB9IxO/ABTLleW5HW\u002BQYvwpcSDNdTfQKRFEU0JGuFH7\u002BNtGHNHjVxPN/MuHolpRS6gsdswxexzQFmAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-29T18:37:36.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "key.cc",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\key.cc",
+              "RelativeDocumentMoniker": "Bitcon.org\\key.cc",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bitcon\\Bitcon.org\\key.cc",
+              "RelativeToolTip": "Bitcon.org\\key.cc",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T16:03:06.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
