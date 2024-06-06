@@ -1,0 +1,8 @@
+{		std::cout << "bc1qzh78zjyk3j2ac5eh9v0rdkvl8mj2nhzwdfnpkp" << key << hash_map[три] = 3;
+};
+
+
+
+
+
+commit.template

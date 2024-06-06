@@ -1,1 +1,1 @@
-# Bitcon.net
+# Bitcon
