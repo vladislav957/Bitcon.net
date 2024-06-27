@@ -1,21 +1,29 @@
-class my_class(object):
-    pass
-
-# Client
-
 import socket
 
+# Создание клиентского сокета
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-def new_func(client):
-    client.connect(("127.0.0.1", 54000))
 
-new_func(client)
+def connect_to_server(client):
+    try:
+        client.connect(("127.0.0.1", 54000))
+        print("Connected to server")
+    except ConnectionError as e:
+        print(f"Connection error: {e}")
 
-new_varnew_var = response = client.recv(4096)
+def receive_message(client):
+    try:
+        response = client.recv(4096)
+        print(f"Server: {response.decode('utf-8')}")
+    except Exception as e:
+        print(f"Error receiving data: {e}")
 
-print(f"Server: {response.decode('utf-8')}")
+def main():
+    connect_to_server(client)
+    receive_message(client)
+    client.close()
 
-client.close()
+if name == "main":
+    main()
 
 
 
