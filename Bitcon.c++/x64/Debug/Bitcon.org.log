@@ -1,0 +1,15 @@
+﻿  Bitcon.org.cpp
+C:\Users\LENOVO\Desktop\Bitcon\Bitcon.org\Bitcon.org.cpp(19,5): error C2597: недопустимая ссылка на нестатический член "_wfinddata64_t::name"
+  (компиляция исходного файла "/Bitcon.org.cpp")
+  C:\Users\LENOVO\Desktop\Bitcon\Bitcon.org\Bitcon.org.cpp(19,21):
+   см. объявление "_wfinddata64_t::name"
+  
+C:\Users\LENOVO\Desktop\Bitcon\Bitcon.org\Bitcon.org.cpp(19,5): error C3867: "_wfinddata64_t::name": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+  (компиляция исходного файла "/Bitcon.org.cpp")
+  
+C:\Users\LENOVO\Desktop\Bitcon\Bitcon.org\Bitcon.org.cpp(19,5): error C2568: [: не удается разрешить перегрузку функции
+  (компиляция исходного файла "/Bitcon.org.cpp")
+  
+C:\Users\LENOVO\Desktop\Bitcon\Bitcon.org\Bitcon.org.cpp(11,2): error C1075: "{": не найдена несоответствующая лексема
+  (компиляция исходного файла "/Bitcon.org.cpp")
+  
