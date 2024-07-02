@@ -1,3 +1,4 @@
+#include <iostream>
 #include <cmath>
 
 double AttackerSuccessProbability(double q, int z) {
@@ -5,13 +6,18 @@ double AttackerSuccessProbability(double q, int z) {
     double lambda = z * (q / p);
     double sum = 1.0;
     int i, k;
-
     for (k = 0; k <= z; k++) {
         double poisson = exp(-lambda);
         for (i = 1; i <= k; i++)
             poisson *= lambda / i;
         sum -= poisson * (1 - pow(q / p, z - k));
     }
-
     return sum;
+}
+
+int main() {
+    double q = 0.1;
+    int z = 10;
+    std::cout << "Attacker Success Probability: " << AttackerSuccessProbability(q, z) << std::endl;
+    return 0;
 }
