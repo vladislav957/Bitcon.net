@@ -1,0 +1,16 @@
+Python 3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> import hashlib
+... 
+... # Пример строки
+... data = "Пример строки для хеширования"
+... 
+... # Создаем объект хеширования для SHA-256
+... sha256_hash = hashlib.sha256()
+... 
+... # Обновляем объект хеша данными (обязательно байты)
+... sha256_hash.update(data.encode('utf-8'))
+... 
+... # Получаем хеш в виде шестнадцатеричной строки
+... hash_hex = sha256_hash.hexdigest()
+... 
